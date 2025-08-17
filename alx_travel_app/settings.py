@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'listings',  # Custom app for handling travel listings
     'rest_framework',  # Django REST framework for API support
     'corsheaders',  # For handling CORS headers
     'drf_yasg', # Django REST framework's Swagger documentation
